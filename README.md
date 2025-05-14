@@ -42,7 +42,7 @@ Key Features:
 
 How to Run:
 1. Clone the repository:
-   git clone https://github.com/your-username/ECommerceSystem.git
+   git clone https://github.com/RaheeqRabaya/ECommerceSystem.git
 
 2. Open the solution in Visual Studio 2022 or newer.
 
