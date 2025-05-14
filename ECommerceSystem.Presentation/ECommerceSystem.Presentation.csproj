@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerceSystem.BusinessLayer\ECommerceSystem.BusinessLayer.csproj" />
+    <ProjectReference Include="..\ECommerceSystem.DataLayer\ECommerceSystem.DataLayer.csproj" />
+  </ItemGroup>
+
 </Project>
